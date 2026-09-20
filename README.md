@@ -9,8 +9,6 @@
   <img width="14" />
   <img src="https://skillicons.dev/icons?i=neovim" height="35" alt="neovim logo"  />
   <img width="14" />
-  <img src="https://skillicons.dev/icons?i=golang" height="35" alt="golang logo"  />
-  <img width="14" />
   <img src="https://skillicons.dev/icons?i=java" height="35" alt="java logo"  />
   <img width="14" />
   <img src="https://skillicons.dev/icons?i=spring" height="35" alt="spring logo"  />
