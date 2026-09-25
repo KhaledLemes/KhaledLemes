@@ -9,9 +9,9 @@
   <img width="14" />
   <img src="https://skillicons.dev/icons?i=neovim" height="35" alt="neovim logo"  />
   <img width="14" />
-  <img src="https://skillicons.dev/icons?i=java" height="35" alt="java logo"  />
+  <img src="https://skillicons.dev/icons?i=javascript" height="35" alt="javascript logo"  />
   <img width="14" />
-  <img src="https://skillicons.dev/icons?i=spring" height="35" alt="spring logo"  />
+  <img src="https://skillicons.dev/icons?i=react" height="35" alt="react logo"  />
   <img width="14" />
   <img src="https://skillicons.dev/icons?i=gcp" height="35" alt="googlecloud logo"  />
   <img width="14" />
